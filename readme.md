@@ -6,6 +6,9 @@ Analysis of the various forms that the Bodhisattva takes across all 547 Jataka T
 
 [Table of the Jātaka Stories](https://ancient-buddhist-texts.net/English-Texts/Jataka/000-Jataka-Table.htm#gsc.tab=0) at Ancient Buddhist Texts, compiled by Ānandajoti Bhikkhu. Character mappings, synopses, and keywords are drawn from the Jātaka-aṭṭhakathā commentary tradition, with the English translation based on the PTS edition by Fausböll.
 
+> **Note:** This data may contain extraction errors, miscoded relationships, or inconsistencies with the source texts.  A second round of verification against the primary sources is planned. Use with appropriate caution.
+
+
 ## Summary
 
 | Metric | Value |
