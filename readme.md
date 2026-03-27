@@ -1,6 +1,6 @@
 # Jataka Rebirths Dataset
 
-Analysis of the various forms that the Bodhisattva takes across all 547 Jataka Tales — the canonical collection of the Buddha's past lives in the Theravada Pali Canon.
+Analysis of the various forms that the Buddha takes across all 547 Jataka Tales — the canonical collection of the Buddha's past lives in the Theravada Pali Canon.
 
 ## Source
 
