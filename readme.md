@@ -20,8 +20,8 @@ Analysis of the various forms that the Bodhisattva takes across all 547 Jataka T
 
 ## The Bodhisattva's Forms
 
-The Bodhisattva appears in every story — as human, animal, or divine being. Across all 547 tales, the Bodhisattva is **male in every single incarnation**. 
-Surpriing, given that Tara — the most famous female Buddha in many Buddhist schools of thought — embodies the feminine dimension/version of Buddha.
+The Bodhisattva appears in every story — as human, animal, or divine being. Across all 547 tales, the Bodhisattva is **male in every single incarnation**.
+Surprising, given that Tara — the most famous female Buddha in many Buddhist schools of thought — embodies the feminine dimension/version of Buddha.
 
 ### By broad category
 
@@ -54,6 +54,18 @@ Surpriing, given that Tara — the most famous female Buddha in many Buddhist sc
 | Iguana | 3 |
 | Crow | 3 |
 | Nāga | 3 |
+
+## Sex Ratio by Category
+
+Even the animals are overwhelmingly male. Zero female monkeys, jackals, parrots, snakes, quails, turtles, tigers, or dogs across all 547 stories.
+
+| Category | Male | Female | Females per 1,000 males |
+|---|---|---|---|
+| Human | 821 | 155 | 189 |
+| Animal | 328 | 30 | 91 |
+| Divine/Supernatural | 109 | 5 | 46 |
+
+The few female animals are mostly does (deer), female crocodiles (wives trying to eat the Bodhisattva's heart), and elephant cows.
 
 ## Devadatta as Antagonist
 
@@ -106,6 +118,8 @@ The Jataka tales map present-day figures to their past-life identities. The most
 | File | Description |
 |---|---|
 | `jataka_rebirths.csv` | One row per character per story (1,448 rows) |
+| `jataka_sex_ratio_by_category.csv` | Sex ratio by human/animal/divine |
+| `jataka_sex_ratio_by_species.csv` | Sex ratio by species (45 species) |
 | `readme.md` | This file |
 
 ## Notes on Data Quality
